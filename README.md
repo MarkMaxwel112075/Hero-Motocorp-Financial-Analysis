@@ -1,29 +1,45 @@
-# Hero-Motocorp-Financial-Analysis
+# Financial Statement Analysis of Hero MotoCorp Ltd.
 
-# Hero MotoCorp – Financial Statement Analysis
+Internship project analyzing the financial statements of **Hero MotoCorp Ltd.**, India's
+largest two-wheeler manufacturer, covering FY2020-21 and FY2021-22.
 
-Internship project report (B.Com, V Semester) analyzing the financial statements of **Hero MotoCorp Ltd.**, India's largest two-wheeler manufacturer.
+## 📌 Overview
+This project applies core financial statement analysis techniques — comparative statements,
+ratio analysis, and trend analysis — to evaluate Hero MotoCorp's financial health and
+performance.
 
-## 📄 Contents
-- `Internship_Project_Report_Hero_Motocorp.pdf` — Full internship report
+## 🏢 About the Company
+Hero MotoCorp (formerly Hero Honda) is a publicly listed Indian motorcycle and scooter
+manufacturer (NSE: HEROMOTOCO, BSE: 500182), headquartered in New Delhi.
 
-## 📊 Project Overview
-This project applies core financial statement analysis techniques to Hero MotoCorp's financials (FY 2020–21 to FY 2021–22), including:
+## 🔍 Scope of Analysis
+- Comparative Income Statement (FY21 vs FY22)
+- Comparative Balance Sheet
+- Cash Flow Statement Analysis
+- Per Share Data / Valuation Ratios
+- Key Ratio Analysis (Liquidity, Solvency, Profitability)
 
-- **Income statement analysis** — revenue, gross profit, and net profit trends
-- **Balance sheet analysis** — assets, liabilities, and net worth movement
-- **Cash flow statement analysis** — operating, investing, and financing activities
-- **Ratio analysis** — liquidity, solvency, and profitability ratios (Current Ratio, ROE, ROCE, ROA, Interest Coverage, etc.)
-- **Per-share data & valuation** — EPS, P/E, P/BV, P/CF ratios
-
-## 🔑 Key Findings
-- Net sales declined ~4.5% YoY in FY22, with operating profit margin falling from 13.2% to 11.7%
-- Net profit margin contracted from 9.6% (FY21) to 8.6% (FY22)
+## 📊 Key Findings
+- Net Sales declined 4.5% YoY in FY22
+- Gross & Net profit margins contracted (13.2% → 11.7% gross; 9.6% → 8.6% net)
 - ROE fell from 19.4% to 16.0%; ROCE fell from 25.5% to 20.9%
-- Working capital management and liquidity were identified as key areas for improvement
+- Current ratio improved slightly (1.7x → 1.9x)
+- Working capital management flagged as an area for improvement
 
-## 🛠️ Methodology
-Comparative & common-size financial statements, trend analysis, ratio analysis, and cash flow analysis — based on secondary data from company annual reports and financial databases (Accord Fintech, Equitymaster).
+## 🛠️ Methods Used
+- Comparative financial statements
+- Common-size statements
+- Trend percentage analysis
+- Ratio analysis
+- Cash flow analysis
 
-## 🎓 Academic Context
-Prepared as part of the Internship Project Report (Subject Code: BC3571), B.Com – V Semester, Quantum University, Roorkee.
+## 📁 Contents
+- `Internship_Project_Report_Hero_Motocorp.pdf` — full project report
+
+## 📚 Sources
+- Hero MotoCorp Annual Reports
+- Accord Fintech, Equitymaster
+- heromotocorp.com
+
+## ✍️ Author
+Mark Maxwel Louis — B.Com, Quantum University, Roorkee (2022–23)
